@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Suma</string>
+    <string name="n_1">Nº1</string>
+    <string name="plus_sign">+</string>
+    <string name="n_2">Nº2</string>
+    <string name="equal_sign">=</string>
+</resources>
